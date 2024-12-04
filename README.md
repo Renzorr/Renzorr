@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Soy Renzo Benavente</h1>
+<h1 align="left">Hola 👋 Soy Renzo Benavente</h1>
 
 ###
 
