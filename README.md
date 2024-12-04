@@ -1,12 +1,12 @@
-<h1 align="left">Hey 👋 Im Renzo Benavente</h1>
+<h1 align="left">Hey 👋 Soy Renzo Benavente</h1>
 
 ###
 
-<p align="left">Frontend Developer who loves making creative and interactive sites, always trying to achieve pixel perfection<br><br>📚 I'm currently learning Web Design.<br>🎯 Goals: I'm planning to become a Creative Front-End Developer to help businesses and individuals grow their personal brands.</p>
+<p align="left">Desarrollador Frontend que disfruta crear sitios creativos e interactivos, siempre buscando lograr pixel perfection. <br><br>📚 Actualmente estoy aprendiendo Diseño Web.<br>🎯 Metas: Mi objetivo es convertirme en un Desarrollador UI para ayudar a empresas e individuos a hacer crecer sus marcas personales.</p>
 
 ###
 
-<h2 align="left">Technologies I work with</h2>
+<h2 align="left">Tecnologíash</h2>
 
 ###
 
@@ -16,8 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
